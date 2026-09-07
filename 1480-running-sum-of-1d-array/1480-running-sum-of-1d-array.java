@@ -5,9 +5,11 @@ class Solution {
         int[] newSum = new int[n];
 
         int sum = 0;
-        for(int i = 0; i < n; i++) {
-            sum = sum + nums[i];
+        int i = 0;
+        while(i < n) {
+            sum += nums[i];
             newSum[i] = sum;
+            i++;
         }
         return newSum;
     }
