@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1470-shuffle-the-array) |
@@ -28,9 +29,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
