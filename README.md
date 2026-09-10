@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
