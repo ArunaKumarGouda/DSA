@@ -19,6 +19,7 @@ class Solution {
             for(int j = 0; j < n; j++) {
                 if(nums[j] == i) {
                     found = true;
+                    break;
                 }
             }
 
