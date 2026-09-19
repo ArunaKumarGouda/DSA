@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
