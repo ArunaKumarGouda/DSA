@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1929-concatenation-of-array) |
+| [3524-find-x-value-of-array-i](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0007-reverse-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1572-matrix-diagonal-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
