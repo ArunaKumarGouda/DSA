@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
