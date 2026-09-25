@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -122,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ArunaKumarGouda/https-github.com-ArunaKumarGouda-DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
